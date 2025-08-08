@@ -40,8 +40,9 @@ A desktop application built using **Python** and **Tkinter GUI Library Tcl/Tk** 
 ## 📁 Project Structure
 
 ```bash
-📂 pomodoro-timer/
-├── 📄 main.py              # Main Python script containing the Tkinter app
-├── 🖼️ tomato.png           # Image asset used in the canvas (Pomodoro icon)
-├── 🖼️ Pomodoro_timer_preview.jpg  # UI preview image used in README
-└── 📄 README.md            # Project documentation
+📂 Pomodoro-Timer/
+├── 🖼️ Pomodoro_timer_preview.jpg       # UI preview image used in readme file
+├── 📄 main.py                          # Main Python script containing the Tkinter app
+├── 📄 readme.md                        # Project documentation
+└── 🖼️ tomato.png                       # Image asset used in the canvas (Pomodoro icon)
+
