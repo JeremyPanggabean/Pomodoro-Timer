@@ -1,4 +1,4 @@
-# 🕒 Pomodoro Timer – Tkinter Python App
+# 🕒 Pomodoro Timer – Tkinter Python App 🍅
 
 A desktop application built using **Python** and **Tkinter GUI Library Tcl/Tk** that implements the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to help boost productivity through structured work and break intervals.
 
@@ -45,4 +45,5 @@ A desktop application built using **Python** and **Tkinter GUI Library Tcl/Tk** 
 ├── 📄 main.py                          # Main Python script containing the Tkinter app
 ├── 📄 readme.md                        # Project documentation
 └── 🖼️ tomato.png                       # Image asset used in the canvas (Pomodoro icon)
+
 
